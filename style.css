@@ -35,3 +35,11 @@ outline: none;
 cursor: pointer;
 border: none;
 }
+.odgovoriRezultat{
+    font-family: 'Rajdhani';
+    font-size: 16pt;
+    margin-left: 20px;
+}
+.odgovoriRezultat:last-child{
+    margin-bottom: 40px;
+}
